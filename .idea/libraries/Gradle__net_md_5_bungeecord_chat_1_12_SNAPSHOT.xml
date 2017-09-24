@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: net.md-5:bungeecord-chat:1.12-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.md-5/bungeecord-chat/1.12-SNAPSHOT/465ac89e375b2803e00df4f32453d07c78484f42/bungeecord-chat-1.12-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.md-5/bungeecord-chat/1.12-SNAPSHOT/31fc9ff7ea5bb27de718a1f1cf7d8d8eb83b1df4/bungeecord-chat-1.12-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
