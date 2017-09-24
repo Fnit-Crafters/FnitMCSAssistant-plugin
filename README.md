@@ -12,7 +12,7 @@ Spigot plugin : send user's statistics via Http POST
 * version 1.12.1+
 
 ## Download
-https://github.com/Fnit-Crafters/FnitMCSAssistant-plugin/blob/master/out/artifacts/FnitMCSAssistant_plugin_jar/FnitMCSAssistant-plugin.jar
+https://github.com/Fnit-Crafters/FnitMCSAssistant-plugin/raw/master/out/artifacts/FnitMCSAssistant_plugin_jar/FnitMCSAssistant-plugin.jar
 
 ## Installation
 1. Download the jar file and drop it into your plugins folder
@@ -99,7 +99,7 @@ TaikiFnit
 * version 1.12.1+
 
 ## Download
-https://github.com/Fnit-Crafters/FnitMCSAssistant-plugin/blob/master/out/artifacts/FnitMCSAssistant_plugin_jar/FnitMCSAssistant-plugin.jar
+https://github.com/Fnit-Crafters/FnitMCSAssistant-plugin/raw/master/out/artifacts/FnitMCSAssistant_plugin_jar/FnitMCSAssistant-plugin.jar
 
 ## 導入
 1. jarファイルをダウンロードして `plugins` フォルダに入れてください
